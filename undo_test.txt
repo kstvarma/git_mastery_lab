@@ -1,1 +1,2 @@
 I will practice undo commands
+Soft reset test
